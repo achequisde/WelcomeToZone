@@ -1,0 +1,6 @@
+## Interface: 110107
+## Author: Humberto Rondon
+## Title: Welcome To Zone
+## Notes: Get a message each time you enter a new zone
+## Version: 1.0.0
+WelcomeToZone.lua
